@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687351967 source:c:\users\sthef\onedrive\documentos\ed1\q01\questao01\agenda.c
+	<stdio.h>
+	"agenda.h"
+
+1687352452 c:\users\sthef\onedrive\documentos\ed1\q01\questao01\agenda.h
+
+1687352443 source:c:\users\sthef\onedrive\documentos\ed1\q01\questao01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"agenda.h"
+
